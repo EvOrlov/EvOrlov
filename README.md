@@ -111,8 +111,8 @@
 <br>
 
 ## 🤝 Контакты
-[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=purple)](mailto:seaman2774@yandex.ru)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Seaman2774)
+[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=purple)](mailto:evgeniy_orlov2709@mail.ru)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Seaman2709)
 
 <!-- Документация по виджету контактов ↑↑ https://shields.io/badges --> 
 
