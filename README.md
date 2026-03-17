@@ -17,6 +17,7 @@ Automation QA Engineer focused on building reliable automation systems and tools
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Selenium.svg" title="pytest" alt="Selenium" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/playwright.png" title="Playwright" alt="Playwright" width="40" height="40"/>
   <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" title="Docker" alt="Docker" width="40" height="40"/>&nbsp
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" title="REST API" alt="REST API" width="40" height="40"/>
 </div>
 
 
