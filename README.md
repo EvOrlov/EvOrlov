@@ -3,19 +3,14 @@
 
 Automation QA Engineer focused on building reliable automation systems and tools.
 
-## 📊 Contribution Stat
-
-![Zastinian's GitHub stats](https://stats.hedystia.com/api?username=EvOrlov&theme=nightowl)
-
-![](https://github-readme-activity-graph.vercel.app/graph?&theme=nightowl&username=EvOrlov)
 
 <br>
 
 ## 🧠 Tech
 <div>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" title="Python" alt="Python" width="40" height="40"/>
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Selenium.svg" title="pytest" alt="Selenium" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/playwright.png" title="Playwright" alt="Playwright" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" title="Python" alt="Python" width="40" height="40"/>&nbsp
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Selenium.svg" title="pytest" alt="Selenium" width="40" height="40"/>&nbsp
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/playwright.png" title="Playwright" alt="Playwright" width="40" height="40"/>&nbsp
   <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" title="Docker" alt="Docker" width="40" height="40"/>&nbsp
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" title="REST API" alt="REST API" width="40" height="40"/>
 </div>
@@ -27,7 +22,10 @@ Automation QA Engineer focused on building reliable automation systems and tools
 
 <br>
 
+## 🚀 Projects
 
+- SOCKS5 Cluster — deploy 3000 proxies on low-cost VPS in minutes
+- Proxy Checker — high-performance async proxy validation engine (in progress)
 <br>
 <br>
 
